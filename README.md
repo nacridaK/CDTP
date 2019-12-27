@@ -1,2 +1,2 @@
-# CDTP
+# ÇDTP
 Çok Disiplinli Tasarım Projesi
